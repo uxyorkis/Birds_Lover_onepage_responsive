@@ -7,19 +7,19 @@
     top: 20%;
 }
 
-.nav-cont2 {
-    margin-left: 30px;
+.nav-con2 {
+    margin-left: 30%;
     display: flex;
 }
 
 header {
-    padding: 100px;
+    padding: 100%;
 }
 
 .established {
     position: absolute;
     top: 38%;
-    left: -70px;
+    left: -70%;
     transform: rotate(-90deg);
     display: inline-block;
     font-size: 1.7rem;
@@ -27,8 +27,3 @@ header {
     letter-spacing: 5px;
     font-family: 'Karla', sans-serif;
 }
-
-.info-brand p br {
-    display: block;
-}
-
